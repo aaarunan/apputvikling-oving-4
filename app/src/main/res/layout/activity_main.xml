@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+                android:id="@+id/root_layout"
+>
+
+
+    <androidx.fragment.app.FragmentContainerView
+            android:layout_width="match_parent"
+            android:layout_height="271dp" android:name="com.example.oving4.ListObjectsFragment"
+            android:id="@+id/fragmentContainerView"/>
+    <androidx.fragment.app.FragmentContainerView
+            android:layout_width="match_parent"
+            android:layout_height="278dp" android:name="com.example.oving4.ViewObjectFragment"
+            android:id="@+id/fragmentContainerView2"/>
+</LinearLayout>

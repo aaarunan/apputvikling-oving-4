@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="objects">
+        <item>Object 1</item>
+        <item>Object 2</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Dette er objekt 1</item>
+        <item>Dette er objekt 2</item>
+    </string-array>
+    <string-array name="images">
+        <item>download.jpeg</item>
+        <item>book3.jpeg</item>
+    </string-array>
+
+
+</resources>
